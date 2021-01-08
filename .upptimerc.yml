@@ -6,12 +6,12 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Personal
     url: https://chadburrus.com
-  - name: Personal (WWW)
-    url: https://www.chadburrus.com
-  - name: Personal (Net)
-    url: https://chadburrus.net
-  - name: Personal (WWW) (Net)
-    url: https://www.chadburrus.net
+  - name: Enchanted Vacations
+    url: https://yourenchantingvacation.com
+  - name: Casey
+    url: https://caseyburrus.org
+  - name: Woodside
+    url: https://woodside-community.church
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
