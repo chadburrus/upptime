@@ -8,6 +8,10 @@ sites:
     url: https://chadburrus.com
   - name: Personal (WWW)
     url: https://www.chadburrus.com
+  - name: Personal (Net)
+    url: https://chadburrus.net
+  - name: Personal (WWW) (Net)
+    url: https://www.chadburrus.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
