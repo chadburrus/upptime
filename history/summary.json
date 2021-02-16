@@ -4,9 +4,9 @@
     "url": "https://chadburrus.com",
     "icon": "https://favicons.githubusercontent.com/chadburrus.com",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 500,
     "timeMonth": 646,
     "timeYear": 653,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-16": 0
+    }
   },
   {
     "name": "Enchanted Vacations",
     "url": "https://yourenchantingvacation.com",
     "icon": "https://favicons.githubusercontent.com/yourenchantingvacation.com",
     "slug": "enchanted-vacations",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 328,
     "timeMonth": 386,
     "timeYear": 388,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-16": 0
+    }
   },
   {
     "name": "Casey",
     "url": "https://caseyburrus.org",
     "icon": "https://favicons.githubusercontent.com/caseyburrus.org",
     "slug": "casey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 307,
     "timeMonth": 375,
     "timeYear": 376,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-16": 0
+    }
   },
   {
     "name": "Woodside",
     "url": "https://woodside-community.church",
     "icon": "https://favicons.githubusercontent.com/woodside-community.church",
     "slug": "woodside",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 305,
     "timeMonth": 303,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-16": 0
+    }
   }
 ]
