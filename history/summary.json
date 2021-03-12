@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.89%",
-    "time": 607,
-    "timeDay": 779,
-    "timeWeek": 424,
-    "timeMonth": 528,
-    "timeYear": 607,
+    "time": 604,
+    "timeDay": 422,
+    "timeWeek": 428,
+    "timeMonth": 511,
+    "timeYear": 604,
     "dailyMinutesDown": {
       "2021-02-16": 97
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.89%",
-    "time": 383,
-    "timeDay": 313,
-    "timeWeek": 333,
+    "time": 382,
+    "timeDay": 300,
+    "timeWeek": 319,
     "timeMonth": 370,
-    "timeYear": 383,
+    "timeYear": 382,
     "dailyMinutesDown": {
       "2021-02-16": 97
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/caseyburrus.org",
     "slug": "casey",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.85%",
-    "time": 354,
-    "timeDay": 269,
-    "timeWeek": 296,
-    "timeMonth": 317,
-    "timeYear": 354,
+    "uptimeYear": "99.86%",
+    "time": 353,
+    "timeDay": 271,
+    "timeWeek": 293,
+    "timeMonth": 316,
+    "timeYear": 353,
     "dailyMinutesDown": {
       "2021-02-16": 130
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.88%",
-    "time": 301,
-    "timeDay": 280,
-    "timeWeek": 298,
-    "timeMonth": 292,
-    "timeYear": 301,
+    "time": 299,
+    "timeDay": 218,
+    "timeWeek": 279,
+    "timeMonth": 290,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2021-02-16": 105
     }
