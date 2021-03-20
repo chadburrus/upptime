@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 603,
-    "timeDay": 895,
-    "timeWeek": 591,
-    "timeMonth": 456,
-    "timeYear": 603,
+    "time": 598,
+    "timeDay": 211,
+    "timeWeek": 565,
+    "timeMonth": 450,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2021-02-16": 97
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 383,
-    "timeDay": 506,
-    "timeWeek": 389,
-    "timeMonth": 357,
-    "timeYear": 383,
+    "time": 382,
+    "timeDay": 309,
+    "timeWeek": 374,
+    "timeMonth": 355,
+    "timeYear": 382,
     "dailyMinutesDown": {
       "2021-02-16": 97
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 366,
-    "timeDay": 455,
-    "timeWeek": 497,
-    "timeMonth": 340,
-    "timeYear": 366,
+    "time": 367,
+    "timeDay": 368,
+    "timeWeek": 474,
+    "timeMonth": 346,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2021-02-16": 130
     }
@@ -65,15 +65,15 @@
     "icon": "https://favicons.githubusercontent.com/woodside-community.church",
     "slug": "woodside",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 298,
-    "timeDay": 403,
-    "timeWeek": 283,
-    "timeMonth": 275,
+    "timeDay": 304,
+    "timeWeek": 298,
+    "timeMonth": 279,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2021-02-16": 105
