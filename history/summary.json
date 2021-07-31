@@ -4,9 +4,9 @@
     "url": "https://chadburrus.com",
     "icon": "https://favicons.githubusercontent.com/chadburrus.com",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 311,
     "timeYear": 568,
     "dailyMinutesDown": {
+      "2021-07-31": 0,
       "2021-06-05": 54,
       "2021-05-27": 512,
       "2021-05-21": 55
@@ -26,9 +27,9 @@
     "url": "https://yourenchantingvacation.com",
     "icon": "https://favicons.githubusercontent.com/yourenchantingvacation.com",
     "slug": "enchanted-vacations",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
@@ -38,6 +39,7 @@
     "timeMonth": 254,
     "timeYear": 348,
     "dailyMinutesDown": {
+      "2021-07-31": 0,
       "2021-05-27": 512,
       "2021-05-21": 55
     }
@@ -47,9 +49,9 @@
     "url": "https://caseyburrus.org",
     "icon": "https://favicons.githubusercontent.com/caseyburrus.org",
     "slug": "casey",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -59,6 +61,7 @@
     "timeMonth": 396,
     "timeYear": 373,
     "dailyMinutesDown": {
+      "2021-07-31": 0,
       "2021-05-27": 449,
       "2021-05-21": 55
     }
@@ -68,9 +71,9 @@
     "url": "https://woodside-community.church",
     "icon": "https://favicons.githubusercontent.com/woodside-community.church",
     "slug": "woodside",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -80,6 +83,7 @@
     "timeMonth": 367,
     "timeYear": 317,
     "dailyMinutesDown": {
+      "2021-07-31": 0,
       "2021-05-27": 449,
       "2021-05-21": 55
     }
