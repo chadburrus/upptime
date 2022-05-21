@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/chadburrus.com",
     "slug": "personal",
     "status": "up",
-    "uptime": "96.66%",
+    "uptime": "96.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.46%",
     "time": 463,
-    "timeDay": 351,
-    "timeWeek": 349,
-    "timeMonth": 366,
+    "timeDay": 424,
+    "timeWeek": 358,
+    "timeMonth": 371,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2022-02-07": 930,
@@ -36,8 +36,7 @@
       "2021-08-09": 1440,
       "2021-08-08": 344,
       "2021-06-05": 54,
-      "2021-05-27": 512,
-      "2021-05-21": 55
+      "2021-05-27": 512
     }
   },
   {
@@ -46,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/yourenchantingvacation.com",
     "slug": "enchanted-vacations",
     "status": "up",
-    "uptime": "97.47%",
+    "uptime": "97.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.56%",
     "time": 352,
-    "timeDay": 383,
-    "timeWeek": 324,
-    "timeMonth": 320,
-    "timeYear": 344,
+    "timeDay": 299,
+    "timeWeek": 337,
+    "timeMonth": 315,
+    "timeYear": 343,
     "dailyMinutesDown": {
       "2022-02-07": 930,
       "2022-02-06": 1440,
@@ -72,8 +71,7 @@
       "2022-01-26": 706,
       "2021-12-01": 15,
       "2021-11-30": 17,
-      "2021-05-27": 512,
-      "2021-05-21": 55
+      "2021-05-27": 512
     }
   },
   {
@@ -82,16 +80,16 @@
     "icon": "https://favicons.githubusercontent.com/caseyburrus.org",
     "slug": "casey",
     "status": "up",
-    "uptime": "97.48%",
+    "uptime": "97.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.58%",
-    "time": 401,
-    "timeDay": 372,
-    "timeWeek": 346,
-    "timeMonth": 370,
-    "timeYear": 408,
+    "time": 400,
+    "timeDay": 197,
+    "timeWeek": 327,
+    "timeMonth": 365,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2022-02-07": 930,
       "2022-02-06": 1440,
@@ -107,8 +105,7 @@
       "2022-01-27": 1440,
       "2022-01-26": 706,
       "2021-11-30": 17,
-      "2021-05-27": 449,
-      "2021-05-21": 55
+      "2021-05-27": 449
     }
   },
   {
@@ -117,15 +114,15 @@
     "icon": "https://favicons.githubusercontent.com/woodside-community.church",
     "slug": "woodside",
     "status": "up",
-    "uptime": "97.48%",
+    "uptime": "97.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.58%",
     "time": 337,
-    "timeDay": 314,
-    "timeWeek": 280,
-    "timeMonth": 312,
+    "timeDay": 247,
+    "timeWeek": 287,
+    "timeMonth": 310,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2022-02-07": 930,
@@ -142,8 +139,7 @@
       "2022-01-27": 1440,
       "2022-01-26": 706,
       "2021-11-30": 17,
-      "2021-05-27": 449,
-      "2021-05-21": 55
+      "2021-05-27": 449
     }
   }
 ]
