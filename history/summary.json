@@ -4,7 +4,7 @@
     "url": "https://chadburrus.com",
     "icon": "https://favicons.githubusercontent.com/chadburrus.com",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "96.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 318,
     "timeYear": 382,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-02-07": 930,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
