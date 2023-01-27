@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chadburrus.com.ico",
     "slug": "personal",
     "status": "up",
-    "uptime": "96.92%",
+    "uptime": "96.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "94.92%",
-    "time": 444,
-    "timeDay": 329,
-    "timeWeek": 409,
-    "timeMonth": 415,
-    "timeYear": 434,
+    "uptimeYear": "95.07%",
+    "time": 445,
+    "timeDay": 778,
+    "timeWeek": 465,
+    "timeMonth": 429,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2023-01-09": 24,
       "2022-12-21": 17,
@@ -66,8 +66,7 @@
       "2022-01-31": 1440,
       "2022-01-30": 1440,
       "2022-01-29": 1440,
-      "2022-01-28": 1440,
-      "2022-01-27": 1440
+      "2022-01-28": 1440
     }
   },
   {
@@ -80,11 +79,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "95.55%",
-    "time": 329,
-    "timeDay": 205,
-    "timeWeek": 260,
-    "timeMonth": 241,
+    "uptimeYear": "95.70%",
+    "time": 328,
+    "timeDay": 266,
+    "timeWeek": 267,
+    "timeMonth": 242,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2023-01-09": 29,
@@ -129,8 +128,7 @@
       "2022-01-31": 1440,
       "2022-01-30": 1440,
       "2022-01-29": 1440,
-      "2022-01-28": 1440,
-      "2022-01-27": 1440
+      "2022-01-28": 1440
     }
   },
   {
@@ -143,11 +141,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.45%",
-    "time": 362,
-    "timeDay": 182,
-    "timeWeek": 222,
-    "timeMonth": 237,
+    "uptimeYear": "96.60%",
+    "time": 361,
+    "timeDay": 256,
+    "timeWeek": 242,
+    "timeMonth": 236,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2022-10-13": 49,
@@ -165,8 +163,7 @@
       "2022-01-31": 1440,
       "2022-01-30": 1440,
       "2022-01-29": 1440,
-      "2022-01-28": 1440,
-      "2022-01-27": 1440
+      "2022-01-28": 1440
     }
   },
   {
@@ -179,11 +176,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.23%",
+    "uptimeYear": "96.39%",
     "time": 306,
-    "timeDay": 66,
-    "timeWeek": 184,
-    "timeMonth": 228,
+    "timeDay": 299,
+    "timeWeek": 213,
+    "timeMonth": 235,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2022-10-13": 49,
@@ -202,8 +199,7 @@
       "2022-01-31": 1440,
       "2022-01-30": 1440,
       "2022-01-29": 1440,
-      "2022-01-28": 1440,
-      "2022-01-27": 1440
+      "2022-01-28": 1440
     }
   }
 ]
