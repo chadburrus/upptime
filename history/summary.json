@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chadburrus.com.ico",
     "slug": "personal",
     "status": "up",
-    "uptime": "96.94%",
+    "uptime": "96.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "96.43%",
-    "time": 435,
-    "timeDay": 284,
-    "timeWeek": 434,
-    "timeMonth": 431,
-    "timeYear": 437,
+    "uptimeYear": "96.71%",
+    "time": 436,
+    "timeDay": 594,
+    "timeWeek": 471,
+    "timeMonth": 426,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2023-01-30": 39,
       "2023-01-09": 24,
@@ -61,8 +61,7 @@
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
-      "2022-02-03": 1440,
-      "2022-02-02": 1440
+      "2022-02-03": 1440
     }
   },
   {
@@ -72,14 +71,14 @@
     "slug": "enchanted-vacations",
     "status": "up",
     "uptime": "97.73%",
-    "uptimeDay": "98.68%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.53%",
     "uptimeMonth": "98.25%",
-    "uptimeYear": "96.95%",
+    "uptimeYear": "97.22%",
     "time": 342,
-    "timeDay": 1930,
-    "timeWeek": 492,
-    "timeMonth": 385,
+    "timeDay": 217,
+    "timeWeek": 493,
+    "timeMonth": 384,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2023-01-31": 52,
@@ -121,8 +120,7 @@
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
-      "2022-02-03": 1440,
-      "2022-02-02": 1440
+      "2022-02-03": 1440
     }
   },
   {
@@ -135,11 +133,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.97%",
+    "uptimeYear": "98.25%",
     "time": 358,
-    "timeDay": 256,
-    "timeWeek": 190,
-    "timeMonth": 217,
+    "timeDay": 250,
+    "timeWeek": 200,
+    "timeMonth": 211,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2022-10-13": 49,
@@ -151,8 +149,7 @@
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
-      "2022-02-03": 1440,
-      "2022-02-02": 1440
+      "2022-02-03": 1440
     }
   },
   {
@@ -165,11 +162,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.76%",
-    "time": 305,
-    "timeDay": 70,
-    "timeWeek": 196,
-    "timeMonth": 218,
+    "uptimeYear": "98.03%",
+    "time": 304,
+    "timeDay": 193,
+    "timeWeek": 214,
+    "timeMonth": 208,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2022-10-13": 49,
@@ -182,8 +179,7 @@
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
-      "2022-02-03": 1440,
-      "2022-02-02": 1440
+      "2022-02-03": 1440
     }
   }
 ]
