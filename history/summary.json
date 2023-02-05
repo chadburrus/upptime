@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/chadburrus.com.ico",
     "slug": "personal",
     "status": "up",
-    "uptime": "96.95%",
+    "uptime": "96.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "97.25%",
-    "time": 437,
-    "timeDay": 528,
-    "timeWeek": 460,
-    "timeMonth": 426,
+    "uptimeYear": "97.53%",
+    "time": 436,
+    "timeDay": 391,
+    "timeWeek": 445,
+    "timeMonth": 423,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2023-01-30": 39,
@@ -58,8 +58,7 @@
       "2022-06-27": 230,
       "2022-06-21": 38,
       "2022-02-07": 930,
-      "2022-02-06": 1440,
-      "2022-02-05": 1440
+      "2022-02-06": 1440
     }
   },
   {
@@ -70,13 +69,13 @@
     "status": "up",
     "uptime": "97.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.53%",
+    "uptimeWeek": "94.05%",
     "uptimeMonth": "98.25%",
-    "uptimeYear": "97.77%",
-    "time": 341,
-    "timeDay": 246,
-    "timeWeek": 493,
-    "timeMonth": 383,
+    "uptimeYear": "98.04%",
+    "time": 342,
+    "timeDay": 347,
+    "timeWeek": 510,
+    "timeMonth": 384,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2023-01-31": 52,
@@ -115,8 +114,7 @@
       "2022-06-28": 808,
       "2022-06-27": 230,
       "2022-02-07": 930,
-      "2022-02-06": 1440,
-      "2022-02-05": 1440
+      "2022-02-06": 1440
     }
   },
   {
@@ -129,11 +127,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.79%",
-    "time": 357,
-    "timeDay": 73,
-    "timeWeek": 195,
-    "timeMonth": 206,
+    "uptimeYear": "99.07%",
+    "time": 356,
+    "timeDay": 414,
+    "timeWeek": 229,
+    "timeMonth": 214,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2022-10-13": 49,
@@ -142,8 +140,7 @@
       "2022-06-28": 808,
       "2022-06-27": 230,
       "2022-02-07": 930,
-      "2022-02-06": 1440,
-      "2022-02-05": 1440
+      "2022-02-06": 1440
     }
   },
   {
@@ -152,15 +149,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/woodside-community.church.ico",
     "slug": "woodside",
     "status": "up",
-    "uptime": "98.13%",
+    "uptime": "98.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.58%",
-    "time": 303,
-    "timeDay": 66,
-    "timeWeek": 180,
-    "timeMonth": 203,
+    "uptimeYear": "98.86%",
+    "time": 304,
+    "timeDay": 311,
+    "timeWeek": 146,
+    "timeMonth": 211,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2022-10-13": 49,
@@ -170,8 +167,7 @@
       "2022-06-28": 809,
       "2022-06-27": 230,
       "2022-02-07": 930,
-      "2022-02-06": 1440,
-      "2022-02-05": 1440
+      "2022-02-06": 1440
     }
   }
 ]
