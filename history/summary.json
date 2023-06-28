@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chadburrus.com.ico",
     "slug": "personal",
     "status": "up",
-    "uptime": "97.42%",
+    "uptime": "97.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.06%",
-    "uptimeYear": "96.99%",
+    "uptimeYear": "97.06%",
     "time": 438,
-    "timeDay": 679,
-    "timeWeek": 546,
-    "timeMonth": 477,
-    "timeYear": 462,
+    "timeDay": 432,
+    "timeWeek": 558,
+    "timeMonth": 474,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2023-06-05": 946,
       "2023-06-04": 1440,
@@ -67,8 +67,7 @@
       "2022-08-11": 609,
       "2022-07-01": 78,
       "2022-06-30": 186,
-      "2022-06-29": 25,
-      "2022-06-28": 808
+      "2022-06-29": 25
     }
   },
   {
@@ -81,11 +80,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.02%",
-    "uptimeYear": "97.47%",
+    "uptimeYear": "97.54%",
     "time": 301,
-    "timeDay": 247,
-    "timeWeek": 189,
-    "timeMonth": 234,
+    "timeDay": 219,
+    "timeWeek": 191,
+    "timeMonth": 235,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2023-06-12": 18,
@@ -139,8 +138,7 @@
       "2022-08-12": 493,
       "2022-08-11": 22,
       "2022-08-09": 84,
-      "2022-07-29": 16,
-      "2022-06-28": 808
+      "2022-07-29": 16
     }
   },
   {
@@ -153,18 +151,17 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.76%",
     "time": 300,
-    "timeDay": 193,
-    "timeWeek": 259,
-    "timeMonth": 249,
+    "timeDay": 317,
+    "timeWeek": 247,
+    "timeMonth": 253,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2023-05-25": 405,
       "2022-10-13": 49,
       "2022-08-09": 83,
-      "2022-07-29": 16,
-      "2022-06-28": 808
+      "2022-07-29": 16
     }
   },
   {
@@ -177,19 +174,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.55%",
     "time": 259,
-    "timeDay": 124,
-    "timeWeek": 141,
-    "timeMonth": 190,
+    "timeDay": 160,
+    "timeWeek": 136,
+    "timeMonth": 184,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2023-05-25": 405,
       "2022-10-13": 49,
       "2022-09-27": 768,
       "2022-09-26": 374,
-      "2022-08-09": 83,
-      "2022-06-28": 809
+      "2022-08-09": 83
     }
   }
 ]
