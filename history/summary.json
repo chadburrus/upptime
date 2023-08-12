@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "97.23%",
+    "uptimeYear": "97.36%",
     "time": 452,
-    "timeDay": 687,
-    "timeWeek": 550,
+    "timeDay": 617,
+    "timeWeek": 548,
     "timeMonth": 486,
-    "timeYear": 479,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2023-08-06": 15,
       "2023-07-31": 23,
@@ -66,8 +66,7 @@
       "2022-08-21": 486,
       "2022-08-20": 174,
       "2022-08-14": 1165,
-      "2022-08-13": 1440,
-      "2022-08-12": 1419
+      "2022-08-13": 1440
     }
   },
   {
@@ -76,16 +75,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/yourenchantingvacation.com.ico",
     "slug": "enchanted-vacations",
     "status": "up",
-    "uptime": "97.68%",
+    "uptime": "97.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "97.67%",
     "time": 294,
-    "timeDay": 216,
-    "timeWeek": 206,
-    "timeMonth": 194,
-    "timeYear": 287,
+    "timeDay": 219,
+    "timeWeek": 205,
+    "timeMonth": 193,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2023-07-31": 35,
       "2023-07-28": 36,
@@ -139,8 +138,7 @@
       "2022-09-26": 30,
       "2022-09-25": 81,
       "2022-08-14": 1165,
-      "2022-08-13": 1440,
-      "2022-08-12": 493
+      "2022-08-13": 1440
     }
   },
   {
@@ -155,9 +153,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 290,
-    "timeDay": 256,
-    "timeWeek": 271,
-    "timeMonth": 256,
+    "timeDay": 400,
+    "timeWeek": 267,
+    "timeMonth": 261,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2023-05-25": 405,
@@ -176,10 +174,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 253,
-    "timeDay": 89,
-    "timeWeek": 226,
-    "timeMonth": 267,
-    "timeYear": 231,
+    "timeDay": 231,
+    "timeWeek": 225,
+    "timeMonth": 266,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2023-05-25": 405,
       "2022-10-13": 49,
