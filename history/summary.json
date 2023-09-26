@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "98.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "98.43%",
-    "time": 477,
-    "timeDay": 437,
-    "timeWeek": 426,
-    "timeMonth": 436,
+    "time": 478,
+    "timeDay": 434,
+    "timeWeek": 437,
+    "timeMonth": 435,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2023-09-18": 21,
@@ -68,13 +68,13 @@
     "slug": "enchanted-vacations",
     "status": "up",
     "uptime": "97.77%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "98.20%",
+    "uptimeYear": "98.22%",
     "time": 275,
-    "timeDay": 170,
-    "timeWeek": 183,
+    "timeDay": 178,
+    "timeWeek": 184,
     "timeMonth": 201,
     "timeYear": 267,
     "dailyMinutesDown": {
@@ -137,8 +137,7 @@
       "2022-10-11": 74,
       "2022-10-02": 51,
       "2022-10-01": 23,
-      "2022-09-27": 20,
-      "2022-09-26": 30
+      "2022-09-27": 20
     }
   },
   {
@@ -147,16 +146,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/caseyburrus.org.ico",
     "slug": "casey",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 285,
-    "timeDay": 460,
-    "timeWeek": 293,
-    "timeMonth": 317,
-    "timeYear": 263,
+    "timeDay": 278,
+    "timeWeek": 294,
+    "timeMonth": 316,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2023-05-25": 405,
       "2022-10-13": 49
@@ -174,15 +173,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 247,
-    "timeDay": 262,
-    "timeWeek": 247,
+    "timeDay": 176,
+    "timeWeek": 254,
     "timeMonth": 257,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2023-05-25": 405,
       "2022-10-13": 49,
-      "2022-09-27": 768,
-      "2022-09-26": 374
+      "2022-09-27": 768
     }
   }
 ]
