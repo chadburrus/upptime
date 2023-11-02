@@ -10,10 +10,10 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "98.57%",
-    "time": 462,
-    "timeDay": 418,
-    "timeWeek": 349,
-    "timeMonth": 351,
+    "time": 463,
+    "timeDay": 588,
+    "timeWeek": 362,
+    "timeMonth": 352,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2023-10-29": 18,
@@ -54,8 +54,7 @@
       "2022-11-21": 69,
       "2022-11-10": 43,
       "2022-11-09": 77,
-      "2022-11-08": 132,
-      "2022-11-02": 63
+      "2022-11-08": 132
     }
   },
   {
@@ -70,9 +69,9 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "98.36%",
     "time": 263,
-    "timeDay": 317,
-    "timeWeek": 278,
-    "timeMonth": 222,
+    "timeDay": 416,
+    "timeWeek": 289,
+    "timeMonth": 225,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2023-10-24": 25,
@@ -128,8 +127,7 @@
       "2022-11-10": 218,
       "2022-11-09": 79,
       "2022-11-08": 33,
-      "2022-11-04": 86,
-      "2022-11-02": 58
+      "2022-11-04": 86
     }
   },
   {
@@ -138,15 +136,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/caseyburrus.org.ico",
     "slug": "casey",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 279,
-    "timeDay": 281,
-    "timeWeek": 247,
-    "timeMonth": 279,
+    "time": 278,
+    "timeDay": 250,
+    "timeWeek": 266,
+    "timeMonth": 281,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2023-05-25": 405
@@ -163,11 +161,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 243,
-    "timeDay": 82,
-    "timeWeek": 203,
-    "timeMonth": 219,
-    "timeYear": 230,
+    "time": 242,
+    "timeDay": 395,
+    "timeWeek": 201,
+    "timeMonth": 223,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2023-05-25": 405
     }
