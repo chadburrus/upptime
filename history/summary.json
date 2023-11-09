@@ -6,17 +6,17 @@
     "slug": "personal",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "98.56%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "98.58%",
     "time": 460,
-    "timeDay": 295,
-    "timeWeek": 387,
-    "timeMonth": 360,
-    "timeYear": 429,
+    "timeDay": 283,
+    "timeWeek": 388,
+    "timeMonth": 365,
+    "timeYear": 431,
     "dailyMinutesDown": {
-      "2023-11-08": 37,
+      "2023-11-08": 26,
       "2023-11-07": 65,
       "2023-11-06": 30,
       "2023-10-29": 18,
@@ -55,8 +55,7 @@
       "2022-12-19": 56,
       "2022-12-13": 26,
       "2022-11-21": 69,
-      "2022-11-10": 43,
-      "2022-11-09": 77
+      "2022-11-10": 43
     }
   },
   {
@@ -66,14 +65,14 @@
     "slug": "enchanted-vacations",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.63%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "98.39%",
-    "time": 263,
-    "timeDay": 300,
+    "time": 264,
+    "timeDay": 343,
     "timeWeek": 311,
-    "timeMonth": 251,
+    "timeMonth": 257,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2023-11-07": 15,
@@ -127,8 +126,7 @@
       "2023-01-07": 7,
       "2022-12-12": 21,
       "2022-11-21": 23,
-      "2022-11-10": 218,
-      "2022-11-09": 79
+      "2022-11-10": 218
     }
   },
   {
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 278,
-    "timeDay": 312,
-    "timeWeek": 262,
+    "time": 277,
+    "timeDay": 203,
+    "timeWeek": 255,
     "timeMonth": 273,
-    "timeYear": 267,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2023-05-25": 405
     }
@@ -162,9 +160,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 243,
-    "timeDay": 386,
-    "timeWeek": 268,
+    "time": 242,
+    "timeDay": 84,
+    "timeWeek": 223,
     "timeMonth": 223,
     "timeYear": 230,
     "dailyMinutesDown": {
