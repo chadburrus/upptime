@@ -6,9 +6,9 @@
     "slug": "personal",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "98.55%",
     "time": 439,
     "timeDay": 277,
@@ -16,7 +16,6 @@
     "timeMonth": 344,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2023-12-03": 13,
       "2023-11-30": 21,
       "2023-11-29": 20,
       "2023-11-24": 23,
@@ -184,7 +183,7 @@
     "timeDay": 97,
     "timeWeek": 249,
     "timeMonth": 247,
-    "timeYear": 232,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2023-05-25": 405
     }
