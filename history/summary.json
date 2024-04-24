@@ -99,16 +99,17 @@
     "slug": "enchanted-vacations",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.84%",
-    "uptimeMonth": "96.27%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "91.73%",
+    "uptimeMonth": "96.25%",
     "uptimeYear": "98.63%",
     "time": 289,
-    "timeDay": 541,
-    "timeWeek": 381,
-    "timeMonth": 371,
+    "timeDay": 369,
+    "timeWeek": 366,
+    "timeMonth": 368,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2024-04-24": 11,
       "2024-04-18": 822,
       "2024-04-15": 771,
       "2024-04-11": 21,
@@ -170,7 +171,7 @@
       "2023-10-10": 40,
       "2023-10-09": 18,
       "2023-10-08": 18,
-      "2023-10-04": 43
+      "2023-10-04": 24
     }
   },
   {
