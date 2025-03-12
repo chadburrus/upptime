@@ -16,7 +16,7 @@
     "timeMonth": 148,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-03-12": 731,
+      "2025-03-12": 747,
       "2025-03-11": 1392,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -271,17 +271,17 @@
     "url": "https://yourenchantingvacation.com",
     "icon": "https://icons.duckduckgo.com/ip3/yourenchantingvacation.com.ico",
     "slug": "enchanted-vacations",
-    "status": "up",
+    "status": "down",
     "uptime": "88.16%",
-    "uptimeDay": "15.38%",
-    "uptimeWeek": "2.20%",
-    "uptimeMonth": "8.46%",
+    "uptimeDay": "16.49%",
+    "uptimeWeek": "2.36%",
+    "uptimeMonth": "8.50%",
     "uptimeYear": "50.57%",
     "time": 368,
-    "timeDay": 160,
-    "timeWeek": 154,
-    "timeMonth": 143,
-    "timeYear": 380,
+    "timeDay": 163,
+    "timeWeek": 157,
+    "timeMonth": 144,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2025-03-12": 663,
       "2025-03-11": 1429,
@@ -469,7 +469,7 @@
       "2024-09-10": 52,
       "2024-09-09": 27,
       "2024-09-04": 48,
-      "2024-09-03": 35
+      "2024-09-03": 15
     }
   },
   {
