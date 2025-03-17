@@ -4,16 +4,16 @@
     "url": "https://chadburrus.com",
     "icon": "https://icons.duckduckgo.com/ip3/chadburrus.com.ico",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "97.24%",
-    "uptimeDay": "42.06%",
-    "uptimeWeek": "18.29%",
-    "uptimeMonth": "12.16%",
-    "uptimeYear": "88.42%",
-    "time": 293,
-    "timeDay": 182,
+    "uptimeDay": "42.24%",
+    "uptimeWeek": "18.46%",
+    "uptimeMonth": "12.20%",
+    "uptimeYear": "88.44%",
+    "time": 292,
+    "timeDay": 186,
     "timeWeek": 178,
-    "timeMonth": 172,
+    "timeMonth": 171,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2025-03-17": 633,
@@ -60,7 +60,7 @@
       "2025-02-04": 1271,
       "2025-02-03": 1039,
       "2025-02-02": 1250,
-      "2025-02-01": 1088
+      "2025-02-01": 1014
     }
   },
   {
@@ -70,7 +70,7 @@
     "slug": "enchanted-vacations",
     "status": "down",
     "uptime": "97.24%",
-    "uptimeDay": "34.42%",
+    "uptimeDay": "33.20%",
     "uptimeWeek": "16.22%",
     "uptimeMonth": "11.69%",
     "uptimeYear": "88.45%",
@@ -80,7 +80,7 @@
     "timeMonth": 160,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2025-03-17": 669,
+      "2025-03-17": 687,
       "2025-03-16": 1024,
       "2025-03-15": 989,
       "2025-03-14": 1264,
