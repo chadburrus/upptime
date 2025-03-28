@@ -4,11 +4,11 @@
     "url": "https://chadburrus.com",
     "icon": "https://icons.duckduckgo.com/ip3/chadburrus.com.ico",
     "slug": "personal",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "54.47%",
-    "uptimeWeek": "16.12%",
-    "uptimeMonth": "72.40%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "56.32%",
+    "uptimeWeek": "16.42%",
+    "uptimeMonth": "72.43%",
     "uptimeYear": "97.70%",
     "time": 270,
     "timeDay": 190,
@@ -28,7 +28,7 @@
       "2025-03-19": 676,
       "2025-03-18": 850,
       "2025-03-17": 954,
-      "2025-03-16": 331
+      "2025-03-16": 314
     }
   },
   {
@@ -36,17 +36,17 @@
     "url": "https://yourenchantingvacation.com",
     "icon": "https://icons.duckduckgo.com/ip3/yourenchantingvacation.com.ico",
     "slug": "enchanted-vacations",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "44.92%",
-    "uptimeWeek": "14.21%",
-    "uptimeMonth": "69.56%",
-    "uptimeYear": "97.46%",
+    "uptimeDay": "44.90%",
+    "uptimeWeek": "14.51%",
+    "uptimeMonth": "69.63%",
+    "uptimeYear": "97.47%",
     "time": 320,
-    "timeDay": 167,
-    "timeWeek": 166,
+    "timeDay": 166,
+    "timeWeek": 165,
     "timeMonth": 160,
-    "timeYear": 325,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2025-03-28": 164,
       "2025-03-27": 878,
@@ -61,7 +61,7 @@
       "2025-03-18": 1059,
       "2025-03-17": 1009,
       "2025-03-16": 1024,
-      "2025-03-15": 186
+      "2025-03-15": 155
     }
   },
   {
