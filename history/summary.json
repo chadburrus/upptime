@@ -4,14 +4,14 @@
     "url": "https://chadburrus.com",
     "icon": "https://icons.duckduckgo.com/ip3/chadburrus.com.ico",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "49.60%",
-    "uptimeWeek": "43.97%",
-    "uptimeMonth": "73.59%",
+    "uptimeDay": "50.37%",
+    "uptimeWeek": "44.08%",
+    "uptimeMonth": "73.64%",
     "uptimeYear": "97.80%",
     "time": 258,
-    "timeDay": 201,
+    "timeDay": 199,
     "timeWeek": 187,
     "timeMonth": 178,
     "timeYear": 234,
@@ -28,7 +28,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 714,
-      "2025-03-20": 305
+      "2025-03-20": 283
     }
   },
   {
@@ -40,7 +40,7 @@
     "uptime": "99.46%",
     "uptimeDay": "60.13%",
     "uptimeWeek": "41.23%",
-    "uptimeMonth": "72.62%",
+    "uptimeMonth": "72.60%",
     "uptimeYear": "97.72%",
     "time": 301,
     "timeDay": 169,
@@ -48,7 +48,7 @@
     "timeMonth": 159,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2025-04-01": 168,
+      "2025-04-01": 179,
       "2025-03-31": 822,
       "2025-03-30": 656,
       "2025-03-29": 582,
