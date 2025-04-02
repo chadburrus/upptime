@@ -6,8 +6,8 @@
     "slug": "personal",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "55.87%",
-    "uptimeWeek": "50.05%",
+    "uptimeDay": "63.85%",
+    "uptimeWeek": "51.36%",
     "uptimeMonth": "73.72%",
     "uptimeYear": "97.81%",
     "time": 258,
@@ -38,17 +38,17 @@
     "slug": "enchanted-vacations",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "72.93%",
-    "uptimeWeek": "47.35%",
-    "uptimeMonth": "72.67%",
+    "uptimeDay": "73.75%",
+    "uptimeWeek": "48.78%",
+    "uptimeMonth": "72.65%",
     "uptimeYear": "97.72%",
     "time": 299,
-    "timeDay": 169,
+    "timeDay": 164,
     "timeWeek": 161,
     "timeMonth": 158,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2025-04-01": 390,
+      "2025-04-01": 378,
       "2025-03-31": 822,
       "2025-03-30": 656,
       "2025-03-29": 582,
@@ -60,7 +60,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 900,
-      "2025-03-20": 23
+      "2025-03-20": 41
     }
   },
   {
